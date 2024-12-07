@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625045937062",
+    "project_id": "evaluacionfinal3uni2a",
+    "storage_bucket": "evaluacionfinal3uni2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625045937062:android:95c470c823c02838238d67",
+        "android_client_info": {
+          "package_name": "com.stomas.pruebasac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDinRLbypGABjUShTeFr41BOCrrwQGf7B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
